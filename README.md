@@ -74,6 +74,3 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 Built with passion, precision, and a focus on visual excellence.
 
 </div>
-
-# Socio
-# Socio
