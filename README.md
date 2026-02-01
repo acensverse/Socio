@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ SocialApp ✨
+# ✨ Socio ✨
 ### The Next-Generation Social Media Experience
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
