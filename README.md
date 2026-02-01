@@ -57,7 +57,7 @@ npx prisma db push
 Create a `.env` file in the root directory based on `.env.example` and add your environment variables:
 - `DATABASE_URL`: Your database connection string.
 - `NEXTAUTH_SECRET`: Secret for session encryption.
-- `AUTH_GOOGLE_ID` / `AUTH_GOOGLE_SECRET`: Google OAuth credentials.
+- `CLOUDINARY`: For Image and Video upload.
 
 ### 5. Run the Developer Server
 ```bash
